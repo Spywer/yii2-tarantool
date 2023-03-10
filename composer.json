@@ -1,5 +1,5 @@
 {
-    "name": "mhthnz/yii2-tarantool",
+    "name": "spywer/yii2-tarantool",
     "description": "Tarantool connector for yii2 framework. Allows to perform SQL and NoSQL queries, ActiveRecord, Schemas and more.",
     "type": "yii2-extension",
     "keywords": ["yii2"," tarantool", "db", "nosql"],
